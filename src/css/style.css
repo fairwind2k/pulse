@@ -1,0 +1,15 @@
+html {
+    font-family: 'Museo Sans Cyrl';
+}
+
+h1 {
+    font-family: 'Museo Sans Cyrl';
+    font-weight: 900;
+    font-size: 48px;
+}
+
+.world {
+    font-family: 'Museo Sans Cyrl' ;
+    font-weight: 300;
+    font-size: 24px;
+}
